@@ -1,0 +1,7 @@
+def print_arguments(a,b,c):
+      x=c*10
+      y=a+b
+      return x,y
+
+sums = print_arguments(3,4,2)
+print (sums)
